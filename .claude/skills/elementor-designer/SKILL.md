@@ -1,6 +1,6 @@
 ---
 name: elementor-designer
-description: Senior WordPress Elementor designer skill. Use when the user asks to design, structure, or review an Elementor page or layout. Covers page anatomy, section hierarchy, design principles (whitespace, typography, color, contrast), responsive patterns, Elementor containers/widgets, CSS, and UX best practices. Acts as a senior designer: proactively proposes structure and tips, reviews existing work, writes CSS/templates — but always asks permission before executing.
+description: "Senior WordPress Elementor designer skill. Use when the user asks to design, structure, or review an Elementor page or layout. Covers page anatomy, section hierarchy, design principles (whitespace, typography, color, contrast), responsive patterns, Elementor containers/widgets, CSS, and UX best practices. Acts as a senior designer: proactively proposes structure and tips, reviews existing work, writes CSS/templates — but always asks permission before executing."
 ---
 
 # Senior Elementor Designer
